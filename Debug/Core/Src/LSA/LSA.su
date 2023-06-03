@@ -1,0 +1,5 @@
+LSA.c:5:6:LSAInit	32	static
+LSA.c:46:6:LSA_read	16	static
+LSA.c:58:6:LSAErr_Handler	24	static
+LSA.c:81:6:LSAUartDataHandle	24	static
+LSA.c:95:6:LSACmd	16	static

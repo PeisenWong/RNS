@@ -1,0 +1,6 @@
+common.c:11:6:Initialize	24	static
+common.c:77:6:button	104	static
+common.c:233:6:CAN1_RX0_IRQHandler	8	static
+common.c:240:6:CAN2_RX1_IRQHandler	8	static
+common.c:248:6:HAL_CAN_RxFifo0MsgPendingCallback	24	static
+common.c:328:6:HAL_CAN_RxFifo1MsgPendingCallback	24	static

@@ -1,0 +1,7 @@
+SPI.c:26:6:SPIxInit	40	static
+SPI.c:80:6:SPITransmit	16	static
+SPI.c:96:6:SPIReceive	16	static
+SPI.c:113:6:SPI_Transmit_Receive	32	static
+SPI.c:125:6:SPI1_IRQHandler	8	static
+SPI.c:140:6:SPI2_IRQHandler	8	static
+SPI.c:155:6:SPI3_IRQHandler	8	static

@@ -1,0 +1,6 @@
+system.c:25:6:SYSSystemInit	16	static
+system.c:111:6:SYSSystem5ms	16	static
+system.c:370:6:SYSSystemAct	8	static
+system.c:388:6:LineFollow	24	static
+system.c:415:7:Sin	24	static
+system.c:422:7:Cos	24	static
